@@ -1,0 +1,22 @@
+{
+  "name": "quickdrag",
+  "version": "1.0.0",
+  "description": "a tiny module to quickly drag html elements.",
+  "main": "quickdrag.js",
+  "scripts": {
+    
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vdegenne/quickdrag.git"
+  },
+  "keywords": [
+    "drag"
+  ],
+  "author": "valentin degenne",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vdegenne/quickdrag/issues"
+  },
+  "homepage": "https://github.com/vdegenne/quickdrag#readme"
+}
